@@ -1,5 +1,4 @@
 # Mybb-Amazing-Design-Red
-
 - Developer: FITBG
 - Design: Hacker Style
 - Color: Red
@@ -7,4 +6,5 @@
 - Code: CSS
 - Forum: MyBB
 
+# Requirements
 - [x] Version: 1.8.*
