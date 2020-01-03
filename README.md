@@ -6,3 +6,5 @@
 - Background: Black
 - Code: CSS
 - Forum: MyBB
+
+- [x] Version: 1.8.*
