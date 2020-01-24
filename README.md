@@ -1,5 +1,5 @@
 # Mybb-Amazing-Design-Red
-- Developer: KodBG
+- Developer: V3G3X
 - Design: Hacker Style
 - Color: Red
 - Background: Black
